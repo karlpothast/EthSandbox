@@ -1,6 +1,6 @@
 # How to Create an Ethereum Sandbox Environment
 
-![alt text](https://github.com/karlpothast/EthSandbox/blob/master/Eth-NoVNC.gif)
+![alt text](https://github.com/karlpothast/EthSandbox/blob/master/Eth-NoVNC.gif) 
 
 Prerequisites : 
 	Linux Ubuntu Virtual Machine (versions 18.04-21.10)
