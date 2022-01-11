@@ -7,7 +7,7 @@ Prerequisites :
 
 1. SSH into your Ubuntu VM
 
-	 $ ssh username@<ip address> (or however your VM host requires)
+	 $ ssh username@<ip address> (or however your VM linux host requires)
 
 2. Install packages
 
